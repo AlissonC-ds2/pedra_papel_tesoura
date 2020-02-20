@@ -1,5 +1,4 @@
-####################################################################################
-VERSÃO DO WINDOWS
+VERSÃO DO WINDOWS:
 Consegui compilar e fazer ele virar .exe porém ele ainda requer o modulo do pydub.
 ####################################################################################
 
